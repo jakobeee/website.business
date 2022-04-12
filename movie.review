@@ -6,6 +6,7 @@
        .header {font-family:monospace}
         .batman {width:300px;}
         .Patrick-bateman {width:300px;}
+        .spider-men {width:300px;}
     </style>
 <h3> American Psycho </h3>
 <img class="Patrick-bateman" src="American-psycho-patrick-bateman.jpg"
@@ -20,6 +21,7 @@ He's the hero we deserve, but not the one we need right now. A silent guardian. 
 </p>
 </div>
 <h3> Spider-Man: No Way Home </h3>
+<img class="spider-men" src= "spider-men.jpeg">
 <p>
 </p>
 <h3> LJ's List of Greatest Movies of All Time </h3>
