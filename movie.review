@@ -1,14 +1,18 @@
 <h1 class="header"><center>LJ's movie reviews</center></h1>
-<style>
-h1 {color:red}
-.header {font-family:monospace}
-</style>
+    <style>
+        h1 {color:red}
+       .header {font-family:monospace}
+        .batman {width:300px;}
+        .Patrick-bateman {width:300px;}
+    </style>
 <h3> American Psycho </h3>
-<p>I live in the American Gardens building on W. 81st street, My name is patrick bateman, I'm 27 years old"
+<img class="Patrick-bateman" src="American-psycho-patrick-bateman.jpg"
+<p>
+I live in the American Gardens building on W. 81st street, My name is patrick bateman, I'm 27 years old"
 </p>
 <div>
 <h3> The Dark Knight </h3>
-<img src="darkknight.jpg">
+<img class="batman" src="darkknight.jpg">
 <p> 
 He's the hero we deserve, but not the one we need right now. A silent guardian. A watchful protector. The Dark Knight.
 </p>
