@@ -1,6 +1,8 @@
+<!DOCTYPE html>
+    <title>Movie reviews</title>
 <h1 class="header"><center>LJ's movie reviews</center></h1>
     <style>
-        h1 {color:red}
+     h1 {color:red}
        .header {font-family:monospace}
         .batman {width:300px;}
         .Patrick-bateman {width:300px;}
@@ -17,5 +19,6 @@ I live in the American Gardens building on W. 81st street, My name is patrick ba
 He's the hero we deserve, but not the one we need right now. A silent guardian. A watchful protector. The Dark Knight.
 </p>
 </div>
+<h3> Social Network </h3>
 <h3> Social Network </h3>
 
