@@ -4,7 +4,7 @@ h1 {color:red}
 .header {font-family:monospace}
 </style>
 <h3> American Psycho </h3>
-<P>
+<p>I live in the American Gardens building on W. 81st street, My name is patrick bateman, I'm 27 years old"
 </p>
 <div>
 <h3> The Dark Knight </h3>
@@ -14,5 +14,4 @@ He's the hero we deserve, but not the one we need right now. A silent guardian. 
 </p>
 </div>
 <h3> Social Network </h3>
-<p>
-</p>
+
