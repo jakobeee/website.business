@@ -1,6 +1,6 @@
 <!DOCTYPE html>
     <title>Movie reviews</title>
-<h1 class="header"><center>LJ's movie reviews</center></h1>
+<h1 class="header"><center>LJ's Movie Reviews</center></h1>
     <style>
      h1 {color:red}
        .header {font-family:monospace}
